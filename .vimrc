@@ -17,6 +17,7 @@ set wildmenu              " Visual autocomplete for command menu
 set lazyredraw            " Redraw only when needed
 
 " Whitespace "
+set shiftwidth=4                    " Use 4 width for indent/outdent
 set tabstop=4                       " Show 4 spaces per TAB character
 set softtabstop=4                   " Insert 4 spaces per TAB typed
 set list                            " Enable special whitespace
